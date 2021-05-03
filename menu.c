@@ -43,7 +43,7 @@ void printHLP()
         "│  and 3,4,5 are yours.                                                             │",
         "│                                                                                   │",
         "│  HOW TO PLAY                                                                      │",
-        "│    ☼ To move the cursor use: [a] (left), [s] (down), [w] (up), [d]   (right).     │",
+        "│    ☼ To move the cursor use: [a] (left), [s] (down), [w] (up), [d] (right).     │",
         "│                                                                                   │",
         "│    ☼ To (select) a pawn press [space],                                            │",
         "│    and to (place) a selected pawn press [enter].                                  │",
